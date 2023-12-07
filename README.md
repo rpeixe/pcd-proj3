@@ -1,4 +1,4 @@
-# Projeto 2
+# Projeto 3
 
 Projeto 3 da disciplina Programação Concorrente e Distribuída 2023-1 da UNIFESP
 
